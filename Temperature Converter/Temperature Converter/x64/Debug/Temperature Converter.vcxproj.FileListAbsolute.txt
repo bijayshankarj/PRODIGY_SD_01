@@ -1,0 +1,3 @@
+C:\Users\bijay\source\repos\Temperature Converter\Temperature Converter\x64\Debug\Temperature Converter.vcxproj.AssemblyReference.cache
+C:\Users\bijay\source\repos\Temperature Converter\Temperature Converter\x64\Debug\TemperatureConverter.TempConversion.resources
+C:\Users\bijay\source\repos\Temperature Converter\Temperature Converter\x64\Debug\Temperature Converter.vcxproj.GenerateResource.cache
